@@ -1,13 +1,18 @@
 .caja{
-	width: 500px;
-	height: 50px;
-	padding: 15px;
-	border:8px  solid blue;
+	margin: 120px 60px 30.5px 60px;
+	padding: 40px 20px 70px 100px;
+	border: 20px solid #9900FF;
+	border-left: 10px solid #9900FF;
+	border-right: 10px solid #9900FF;
 	background-color:pink;
-	margin:25px; 
+	margin: 120px 60px 30.5px 60px;
 }
-p{
-	border:2px dashed green;
+.hijo{
+	border:2px dashed #38761D;
 	text-align: center;
 	background-color: white;
+	text-align: center;	
+	line-height: 50px;
+	height: 50px;
 }
+	
